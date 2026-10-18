@@ -75,13 +75,13 @@
     "full_name": "LearnPrompt/awesome-seedance",
     "note": "600+ 案例可溯源原帖，260+ 跨模型复测",
     "section": "repos",
-    "stars": 2129
+    "stars": 2130
   },
   {
     "full_name": "FlashML-org/FreeVideo",
     "note": "8GB 显存本地跑 MiniMax H3",
     "section": "repos",
-    "stars": 2083
+    "stars": 2089
   },
   {
     "full_name": "EvoLinkAI/awesome-seedance-2.5-guide",
@@ -105,6 +105,6 @@
     "full_name": "AtlasCloudAI/awesome-minimax-h3-prompts",
     "note": "H3 官方展示案例（品牌片/动效/叙事/电商/游戏/工业）",
     "section": "repos",
-    "stars": 59
+    "stars": 60
   }
 ]

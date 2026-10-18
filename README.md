@@ -99,12 +99,12 @@ H3 是音画一体模型，提示词要**同时写画面和声音**：
 | [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) | 高质量 Seedance 2.0 prompt 合集（电影/动漫/UGC/广告/meme） | 2734 |
 | [AIMixer/ComfyUI_MiniMaxH3_Director](https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director) | 多段落 H3 导演级 ComfyUI 工作流 | 2421 |
 | [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) | 2000+ Seedance 2.0 prompt，API 指南、角色一致性技巧 | 2149 |
-| [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance) | 600+ 案例可溯源原帖，260+ 跨模型复测 | 2129 |
-| [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo) | 8GB 显存本地跑 MiniMax H3 | 2083 |
+| [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance) | 600+ 案例可溯源原帖，260+ 跨模型复测 | 2130 |
+| [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo) | 8GB 显存本地跑 MiniMax H3 | 2089 |
 | [EvoLinkAI/awesome-seedance-2.5-guide](https://github.com/EvoLinkAI/awesome-seedance-2.5-guide) | Seedance 2.5 官方指南，36 个官方素材 | 412 |
 | [Anil-matcha/awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) | Seedance 2.5 API 指南、参数、示例 | 324 |
 | [xianyu110/awesome-minimax-h3-prompts](https://github.com/xianyu110/awesome-minimax-h3-prompts) | MiniMax H3 提示词精选 | 60 |
-| [AtlasCloudAI/awesome-minimax-h3-prompts](https://github.com/AtlasCloudAI/awesome-minimax-h3-prompts) | H3 官方展示案例（品牌片/动效/叙事/电商/游戏/工业） | 59 |
+| [AtlasCloudAI/awesome-minimax-h3-prompts](https://github.com/AtlasCloudAI/awesome-minimax-h3-prompts) | H3 官方展示案例（品牌片/动效/叙事/电商/游戏/工业） | 60 |
 <!-- AUTO-REPOS:END -->
 
 > 新发现的仓库会先进入 [data/candidates.json](data/candidates.json)，人工整理提炼后并入正文。自动归集脚本见 [scripts/collect.py](scripts/collect.py)。
