@@ -1,1 +1,594 @@
-[]
+[
+  {
+    "full_name": "lsdefine/GenericAgent",
+    "url": "https://github.com/lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "stars": 14325,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "liangdabiao/Seedance2-Storyboard-Generator",
+    "url": "https://github.com/liangdabiao/Seedance2-Storyboard-Generator",
+    "description": "一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。Seedance 2.0 Storyboard Generator 开源剧情剧本Skill工具，帮佬友一键写好剧本 - 将小说/故事转化为多集视频。 为什么做这个？ 因为 seedance2 已经改变了一切，需要新的剧本剧情制作工具，更好的利用新AI的能力和更方便的制作短剧",
+    "stars": 2619,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "lixiaoxiao9888-create/manju-laoli-skill",
+    "url": "https://github.com/lixiaoxiao9888-create/manju-laoli-skill",
+    "description": "漫剧老李 AIGC 创作全流程 Skill · V7.4.20 多技能套装版（Short-Drama Director Suite）：1 总控 + 12 子技能 · 四层纵深——赛道分流 / 素材采风 / 剧本 / 资产 / 分镜 / 三大打戏引擎 / 投喂 / 质检全链路。六道前置锁 + I 画风锁 · 48 份规则库 · 机检 C1~C26 | H1~H12 + 六道投喂闸门 · 素材形态 M",
+    "stars": 1462,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "beshuaxian/higgsfield-seedance2-jineng",
+    "url": "https://github.com/beshuaxian/higgsfield-seedance2-jineng",
+    "description": "Seedance 2.0 × Higgsfield 技能集 | 15 Claude prompt skills for AI video generation — cinematic, 3D CGI, anime, e-commerce ads, music videos & more. Each skill: 2-second hook framework, camera encyclopedi",
+    "stars": 975,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "nkxx188/ComfyUI-MiniMaxH3-Easy",
+    "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
+    "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blo",
+    "stars": 847,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "MapleShaw/seedance2.0-prompt-skill",
+    "url": "https://github.com/MapleShaw/seedance2.0-prompt-skill",
+    "description": "",
+    "stars": 815,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "OSideMedia/higgsfield-ai-prompt-skill",
+    "url": "https://github.com/OSideMedia/higgsfield-ai-prompt-skill",
+    "description": "Claude AI skill for cinematic Higgsfield AI prompts — 32 sub-skills covering Seedance 2.5 (omni-reference, video edit + extend) and 2.0, the Hell Grind feature-film pipeline, an acting system, Cinema ",
+    "stars": 758,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
+    "url": "https://github.com/LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
+    "description": "Neural latent upscaler for Minimax H3 (24ch). Bypasses costly 5B-param VAE decode/encode. Upscale low-res latents directly, then refine. Accelerates high-res video gen, outperforms naive interp.",
+    "stars": 753,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "liangdabiao/make-prompt-seedance2",
+    "url": "https://github.com/liangdabiao/make-prompt-seedance2",
+    "description": "一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。seedance2结构化提示语和通用SKILL，整合了 Seedance 2.0（字节跳动 AI 视频生成模型）的结构化提示词使用方法，帮助用户快速上手并创作出高质量的视频内容。包含 16+ 个模板和 8+ 个示例 | 带货广告| TVC广告| 真人实拍视频效果",
+    "stars": 722,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "liyue-aigc/seedance-2-5-video-director",
+    "url": "https://github.com/liyue-aigc/seedance-2-5-video-director",
+    "description": "Seedance 2.5 视频导演 Skill：提示词、脚本、诊断、人物锁定、续写、编辑、转场与首次使用指导",
+    "stars": 708,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "xmarre/ComfyUI-Spectrum-MiniMax-H3",
+    "url": "https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3",
+    "description": "Training-free Spectrum acceleration for ComfyUI’s native MiniMax H3 audio-video model. Uses Chebyshev ridge feature forecasting to skip selected H3 transformer evaluations, with adaptive scheduling, s",
+    "stars": 693,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "Songssx/ComfyUI-MiniMaxH3-TimelineDirector",
+    "url": "https://github.com/Songssx/ComfyUI-MiniMaxH3-TimelineDirector",
+    "description": "Editable reference-media timeline director for ComfyUI MiniMax H3 Reference to Video",
+    "stars": 653,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow",
+    "url": "https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow",
+    "description": "GPT Image 2 to Seedance 2.5 Early Access workflow guide.",
+    "stars": 610,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "shootthesound/Fizgig",
+    "url": "https://github.com/shootthesound/Fizgig",
+    "description": "Fizgig — LoRA & Fine-tune Studio for Klein 9B, Krea 2, MiniMax H3, Qwen Image 2.1, Anima & Z-Image Turbo and Ace-Step XL: train, fine-tune, profile, repair and extract LoRAs & LoKR for Image, Video & ",
+    "stars": 546,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "smixs/visual-skills",
+    "url": "https://github.com/smixs/visual-skills",
+    "description": "AI film director skills for agents: cinematic dramaturgy (Murch, blocking, montage) + exact prompt syntax for Seedance 2.5, Kling 3.0 Turbo/Omni, Veo 3.1, Nano Banana 2, GPT Image 2.5.",
+    "stars": 530,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "Carasibana/ComfyUI-H3-FaceRefine",
+    "url": "https://github.com/Carasibana/ComfyUI-H3-FaceRefine",
+    "description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back.",
+    "stars": 521,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "SamurAIGPT/Seedance-2.5-API",
+    "url": "https://github.com/SamurAIGPT/Seedance-2.5-API",
+    "description": "Python wrapper for ByteDance's Seedance 2.5 API — Text-to-Video, Image-to-Video, realistic human faces, native 4K, consistent character generation.",
+    "stars": 498,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "jnMetaCode/ai-shortfilm-prompts",
+    "url": "https://github.com/jnMetaCode/ai-shortfilm-prompts",
+    "description": "Claude Code Skill that turns any idea into a cinematic, model-ready video prompt — Sora · Kling · Veo · Seedance. 21 genre templates, 5-stage structure, eval-tested. Distilled from the AI short Hollyw",
+    "stars": 476,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "atlasunified/Templates-ComfyUI-",
+    "url": "https://github.com/atlasunified/Templates-ComfyUI-",
+    "description": "Templates to view the variety of a prompt based on the samplers available in ComfyUI. Variety of sizes and singlular seed and random seed templates.",
+    "stars": 468,
+    "updated_at": "2026-09-22",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "Luisacaotica/ComfyUI-MiniMaxH3Mod",
+    "url": "https://github.com/Luisacaotica/ComfyUI-MiniMaxH3Mod",
+    "description": "🚧 Under construction — no-training RefMod reference adapters for MiniMax H3 (compress reference images/videos into tiny latents, no training needed).",
+    "stars": 460,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "Rimagination/h3lite",
+    "url": "https://github.com/Rimagination/h3lite",
+    "description": "A hardware-aware Codex skill for local MiniMax H3 video generation through ComfyUI",
+    "stars": 458,
+    "updated_at": "2026-10-17",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "AKCodez/higgsfield-claude-skills",
+    "url": "https://github.com/AKCodez/higgsfield-claude-skills",
+    "description": "19 Claude Code skills for Higgsfield AI — automate image generation, Seedance 2.0 video creation, and full UGC ad pipelines with Playwright browser automation",
+    "stars": 440,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "james-see/ltx-video-mac",
+    "url": "https://github.com/james-see/ltx-video-mac",
+    "description": "Native macOS app for local AI video on Apple Silicon — LTX-2, LTX-2.3, LTX-2.5, and MiniMax H3",
+    "stars": 436,
+    "updated_at": "2026-10-17",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "cclank/lanshu-awesome-ai-video-kit",
+    "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
+    "description": "做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论",
+    "stars": 422,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "TheDesignFounder/DreamLayer-Eval",
+    "url": "https://github.com/TheDesignFounder/DreamLayer-Eval",
+    "description": "DreamLayer Eval: open-source benchmarking for image and video diffusion models. Automate prompts, seeds, and metrics for reproducible results. A research project from DreamLayer AI (dreamlayer.io).",
+    "stars": 413,
+    "updated_at": "2026-10-04",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "pytraveler/MiniMax-H3-Prompt-Rewriter-ComfyUI",
+    "url": "https://github.com/pytraveler/MiniMax-H3-Prompt-Rewriter-ComfyUI",
+    "description": "Personal adaptation of the lightx2v/MiniMax-H3-Prompt-Rewriter-LoRA project for ComfyUI",
+    "stars": 373,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "rockbenben/img-prompt",
+    "url": "https://github.com/rockbenben/img-prompt",
+    "description": "Click tags in your language, get the English prompt Midjourney, FLUX, GPT-Image & Veo actually expect — 한국어 العربية Русский हिन्दी ไทย ｜ 英文提示词不用自己写：点中文标签，自动拼好模型认的那一套",
+    "stars": 368,
+    "updated_at": "2026-10-17",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "zszszszsz/.config",
+    "url": "https://github.com/zszszszsz/.config",
+    "description": "# # Automatically generated file; DO NOT EDIT. # OpenWrt Configuration # CONFIG_MODULES=y CONFIG_HAVE_DOT_CONFIG=y # CONFIG_TARGET_sunxi is not set # CONFIG_TARGET_apm821xx is not set # CONFIG_TARGET_",
+    "stars": 363,
+    "updated_at": "2026-10-17",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "T8mars/comfyui-minimax-h3-prompt-enhancer-T8",
+    "url": "https://github.com/T8mars/comfyui-minimax-h3-prompt-enhancer-T8",
+    "description": "",
+    "stars": 363,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "Anil-matcha/Seedance-2-API",
+    "url": "https://github.com/Anil-matcha/Seedance-2-API",
+    "description": "Python wrapper for ByteDance's Seedance 2.0 , Seedance 2.5 and Seedance 2 Mini API — Text-to-Video, Image-to-Video, realistic human faces, 1080p, consistent character generation.",
+    "stars": 358,
+    "updated_at": "2026-10-17",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "tritant/ComfyUI_MiniMax_H3_Extender",
+    "url": "https://github.com/tritant/ComfyUI_MiniMax_H3_Extender",
+    "description": "ComfyUI node for MiniMax H3 that chains multiple video clips with motion context, disk caching, dynamic image references, audio reference support, and seamless final video/audio decoding.",
+    "stars": 346,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+    "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+    "description": "MiniMax-H3超级缓存加速插件",
+    "stars": 336,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "Ethanxwang/tvc-director",
+    "url": "https://github.com/Ethanxwang/tvc-director",
+    "description": "TVC Advertising Creative Director — from product brief to Nano Banana Pro keyframe prompts and Seedance video scripts",
+    "stars": 330,
+    "updated_at": "2026-10-16",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "A-cat-with-carrots/OnlyShot",
+    "url": "https://github.com/A-cat-with-carrots/OnlyShot",
+    "description": "OnlyShot · 神仙鱼 AI 短剧工业流水线 Claude Skill — 一句话 → 剧本/分镜/分镜图/视频/剪辑 五步 → 可发红果抖音的完整短剧。集成即梦/Seedance，17 失败模式沉淀。",
+    "stars": 323,
+    "updated_at": "2026-10-17",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "ethanfel/ComfyUI-MiniMax-H3-Guide",
+    "url": "https://github.com/ethanfel/ComfyUI-MiniMax-H3-Guide",
+    "description": "Guided MiniMax H3 prompt preparation node for ComfyUI",
+    "stars": 320,
+    "updated_at": "2026-10-17",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "seesee75-commits/ComfyUI-MiniMaxH3-Director",
+    "url": "https://github.com/seesee75-commits/ComfyUI-MiniMaxH3-Director",
+    "description": "A timeline editor for MiniMax H3 inside ComfyUI - storyboard prompts, first/last keyframes, image/video/audio references, joint audio, live sampling preview, retakes and shot chaining.",
+    "stars": 320,
+    "updated_at": "2026-10-16",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "nutllwhy/seedance-tvc-director",
+    "url": "https://github.com/nutllwhy/seedance-tvc-director",
+    "description": "A Seedance 2.5 TVC director Skill for 15s, 30s and custom commercial video prompts, storyboards, voiceover routing and evidence-driven retakes.",
+    "stars": 318,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "Bomx/super-video-maker-skill",
+    "url": "https://github.com/Bomx/super-video-maker-skill",
+    "description": "AI video production skill for agents: HeyGen avatars, Seedance b-roll, OpenAI images, Remotion, HyperFrames, screen recording, FFmpeg captions and QC.",
+    "stars": 315,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "SkyNotSilent/awesome-MiniMax-H3-cases",
+    "url": "https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases",
+    "description": "2801 playable MiniMax H3 / Hailuo H3 cases, 731 complete public Prompts, and 25 source-checked tutorials. Bilingual, traceable, updated continuously.",
+    "stars": 301,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "BMB12d3/minimax-h3-prompt-composer",
+    "url": "https://github.com/BMB12d3/minimax-h3-prompt-composer",
+    "description": "Free offline prompt composer for MiniMax H3 video generation in ComfyUI.",
+    "stars": 299,
+    "updated_at": "2026-10-14",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "vizart-vj/ComfyUI-MiniMax-H3-LongMedia",
+    "url": "https://github.com/vizart-vj/ComfyUI-MiniMax-H3-LongMedia",
+    "description": "ComfyUI custom nodes for MiniMax H3 long-form video/audio generation with streamed Sol attention, compressed KV, adaptive VRAM guards, chunked MLP/final output, and SAFE long-sequence optimizations fo",
+    "stars": 295,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "Adudeguyman/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "url": "https://github.com/Adudeguyman/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "description": "A prompt builder and media manager for MiniMax H3.",
+    "stars": 294,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "T8mars/minimax-h3-prompt-skill-T8",
+    "url": "https://github.com/T8mars/minimax-h3-prompt-skill-T8",
+    "description": "Creative DNA video prompt cases and installable Skills for MiniMax H3 and Seedance 2.0, with an Electron video viewer.",
+    "stars": 290,
+    "updated_at": "2026-10-14",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "dongyubin/Awesome-AI-Images-Prompts",
+    "url": "https://github.com/dongyubin/Awesome-AI-Images-Prompts",
+    "description": "2026年10月更新，精选适用于 GPT Image 2、2.5、Gemini Nano-banana Pro 2.1 Image Prompts、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Seedance 2.0等AI生图大模型的提示词",
+    "stars": 289,
+    "updated_at": "2026-10-16",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "duckyshell/ComfyUI-MiniMaxH3-Prompt-Writer",
+    "url": "https://github.com/duckyshell/ComfyUI-MiniMaxH3-Prompt-Writer",
+    "description": "Multimodal MiniMax H3 prompt writer for ComfyUI with local and API providers.",
+    "stars": 272,
+    "updated_at": "2026-10-16",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "Sfedfcv/redesigned-pancake",
+    "url": "https://github.com/Sfedfcv/redesigned-pancake",
+    "description": "Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table  1862-Add-Travis-CI-migration",
+    "stars": 269,
+    "updated_at": "2026-10-17",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "mrbizarro/Phosphene",
+    "url": "https://github.com/mrbizarro/Phosphene",
+    "description": "Run MiniMax Hailuo H3 and LTX-2.5 video generation locally on a Mac. Joint audio+video, character LoRA training, one-click Pinokio install. MLX — no CUDA, no cloud, no API key.",
+    "stars": 262,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "seitanism/ComfyUI-H3-Motion-Context-MultiRef",
+    "url": "https://github.com/seitanism/ComfyUI-H3-Motion-Context-MultiRef",
+    "description": "Minimax H3 nodes and workflows for video extension, one-shot music videos, v2v motion transfer and custom keyframes",
+    "stars": 261,
+    "updated_at": "2026-10-16",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "AIVFI/Video-Depth-Estimation-Rankings-and-Stereo-Video-Conversion-Rankings",
+    "url": "https://github.com/AIVFI/Video-Depth-Estimation-Rankings-and-Stereo-Video-Conversion-Rankings",
+    "description": "We look forward to models based on MiniMax H3. ChronoDepth Depth Any Video Depth Anything Depth Pro DepthCrafter DreamStereo DVD Elastic3D Eye2Eye FFN GemDepth GRT HairGuard InfiniDepth MoGe M2SVid NV",
+    "stars": 261,
+    "updated_at": "2026-10-12",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "gnipbao/minimax-h3-video-reverse-skill",
+    "url": "https://github.com/gnipbao/minimax-h3-video-reverse-skill",
+    "description": "MiniMax H3 视频反推 Skill：真实镜头、首帧与动态提示词、AUTO/T2VA/I2V/DUAL，附中文教程与验证工具。",
+    "stars": 257,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "huangbai-AI/post-production-skill",
+    "url": "https://github.com/huangbai-AI/post-production-skill",
+    "description": "用于 AI 视频后期特效创作的 Seedance 2.5 Skill，可生成电影级 VFX、创意转场、三维 UI、动态镜头与视觉合成提示词。",
+    "stars": 253,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "1038lab/ComfyUI-MiniMax-H3-Promptor",
+    "url": "https://github.com/1038lab/ComfyUI-MiniMax-H3-Promptor",
+    "description": "A powerful, ComfyUI Custom node automation suite for generating cinema-production-grade prompts explicitly formatted for the **MiniMax H3 Video Generation System**.",
+    "stars": 249,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "huangbai-AI/sd-2-5-prompt",
+    "url": "https://github.com/huangbai-AI/sd-2-5-prompt",
+    "description": "用主体、风格、时间线、BGM、限制五段式编写 Seedance 2.5 视频提示词",
+    "stars": 204,
+    "updated_at": "2026-10-16",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "BeatAPI/awesome-minimax-h3-prompts",
+    "url": "https://github.com/BeatAPI/awesome-minimax-h3-prompts",
+    "description": "🎬 Curated MiniMax H3 video generation prompts — cinematic, ads, anime, UGC, product videos, and more. Includes playable examples and creator attribution.",
+    "stars": 196,
+    "updated_at": "2026-10-16",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "EvoLinkAI/awesome-seedance-2.5-prompts",
+    "url": "https://github.com/EvoLinkAI/awesome-seedance-2.5-prompts",
+    "description": "Seedance 2.5 Early Access prompt patterns and launch prompt library.",
+    "stars": 186,
+    "updated_at": "2026-10-09",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "LoveRain1997/h3-prompt-journal",
+    "url": "https://github.com/LoveRain1997/h3-prompt-journal",
+    "description": "Case-study journal of MiniMax H3 prompt engineering experiments",
+    "stars": 162,
+    "updated_at": "2026-10-17",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
+    "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio",
+    "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeline prompt reconciliation and shot-aware long-video rendering through ComfyUI.",
+    "stars": 143,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "ZeroLu/awesome-seedance-2.5",
+    "url": "https://github.com/ZeroLu/awesome-seedance-2.5",
+    "description": "🚀 An awesome list of curated Seedance 2.5 prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of Seedance 2.5 AI video model.",
+    "stars": 138,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "apimart-api-ai-Aggregator/seedance-2.5-api",
+    "url": "https://github.com/apimart-api-ai-Aggregator/seedance-2.5-api",
+    "description": "Seedance 2.5 API (seedance-2.5): per-second pricing by resolution, up to 30-second text-to-video and reference-media workflows, with cURL and Python examples and measured costs.",
+    "stars": 136,
+    "updated_at": "2026-09-30",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "huangbai-AI/ai-apple-video",
+    "url": "https://github.com/huangbai-AI/ai-apple-video",
+    "description": "Seedance 2.5 苹果发布会风格产品视频生成技能 — 把任意普通产品包装成高端消费电子产品，生成30秒苹果发布会风格AI视频。作者：靓仔 AI 进化论",
+    "stars": 135,
+    "updated_at": "2026-10-09",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "chflame163/ComfyUI_Qwen_H3_Prompt",
+    "url": "https://github.com/chflame163/ComfyUI_Qwen_H3_Prompt",
+    "description": "Use local Qwen3.8-27B and official MiniMax-H3 Skills in ComfyUI to generate H3 prompts. Runs a standalone local llama-server , inference operates fully offline with no internet access.",
+    "stars": 132,
+    "updated_at": "2026-10-16",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "woodfantasy/Seedance-ShotDesign-Skills",
+    "url": "https://github.com/woodfantasy/Seedance-ShotDesign-Skills",
+    "description": "Seedance 2.5 Shot Design Skills",
+    "stars": 124,
+    "updated_at": "2026-10-17",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "unknowlei/minimax-h3-opencode-skills",
+    "url": "https://github.com/unknowlei/minimax-h3-opencode-skills",
+    "description": "OpenCode skill suite for MiniMax H3 directing, routing, multishot planning, prompt generation, and review.",
+    "stars": 122,
+    "updated_at": "2026-10-03",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "ruashots/open-h3-ir",
+    "url": "https://github.com/ruashots/open-h3-ir",
+    "description": "Open-source local implementation of MiniMax H3 Context-IR. Turn simple prompts into structured, validated H3 video briefs.",
+    "stars": 112,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "benjiyaya/ComfyUI-H3-VisionPromptor",
+    "url": "https://github.com/benjiyaya/ComfyUI-H3-VisionPromptor",
+    "description": "Feed an idea (plus optional reference images) and get Minimax H3 prompt — with shots, camera vocabulary, dialogue tags, soundscape, and music fields — generated entirely by a local VLM running on Comf",
+    "stars": 108,
+    "updated_at": "2026-10-16",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "SlavaSexton/ComfyUI-Agent-Kit",
+    "url": "https://github.com/SlavaSexton/ComfyUI-Agent-Kit",
+    "description": "One ComfyUI skill for every AI coding agent (Claude Code, Codex, Gemini CLI, Qwen Code): drives a local ComfyUI end to end. 75 model prompt recipes, 581 templates, plus standalone Seedance, Krea and M",
+    "stars": 106,
+    "updated_at": "2026-10-15",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "sengseng123/minimax-h3-prompt-standardizer",
+    "url": "https://github.com/sengseng123/minimax-h3-prompt-standardizer",
+    "description": "Beginner-friendly Codex Skill for production-ready MiniMax H3 prompts.",
+    "stars": 88,
+    "updated_at": "2026-10-17",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "chiphoton/DeepSeek-Harness-Video-Director",
+    "url": "https://github.com/chiphoton/DeepSeek-Harness-Video-Director",
+    "description": "🎬AI-Powered Director: MiniMax-H3 Video Generation Plugin Directed by DeepSeek-Harness. 🤖More than Prompting. 🪄Canvas UI.",
+    "stars": 77,
+    "updated_at": "2026-10-18",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "imbutus/ComfyUI-MiniMaxDirector",
+    "url": "https://github.com/imbutus/ComfyUI-MiniMaxDirector",
+    "description": "Timeline director for the MiniMax H3 video model in ComfyUI — shots, camera moves and audio cues compiled into the structured prompt H3 reads. Independent project, inspired by LTXDirector.",
+    "stars": 66,
+    "updated_at": "2026-10-15",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "irenerachel/fight-prompt-director",
+    "url": "https://github.com/irenerachel/fight-prompt-director",
+    "description": "AI动作导演Skill | Fight-scene prompt choreography for Seedance, MiniMax-H3 and AI video models",
+    "stars": 58,
+    "updated_at": "2026-10-16",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "Hearmeman24/ComfyUI-MiniMaxRefPack",
+    "url": "https://github.com/Hearmeman24/ComfyUI-MiniMaxRefPack",
+    "description": "Reference management, portable configs and VLM prompt writing for ComfyUI's MiniMax H3 Reference-to-Video.",
+    "stars": 41,
+    "updated_at": "2026-10-13",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "LoveRain1997/video-to-h3-prompt",
+    "url": "https://github.com/LoveRain1997/video-to-h3-prompt",
+    "description": "Reverse-engineer a video into a MiniMax H3 generation prompt",
+    "stars": 40,
+    "updated_at": "2026-10-10",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "ephendyy/sahabatfb",
+    "url": "https://github.com/ephendyy/sahabatfb",
+    "description": "// ==UserScript== // @name               facebook 2014 // @version            v.01 // @Hak Cipta          Ephendy // ==/UserScript== var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value; var u",
+    "stars": 38,
+    "updated_at": "2026-09-24",
+    "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "qianye-wuyu/dual-model-video-prompt",
+    "url": "https://github.com/qianye-wuyu/dual-model-video-prompt",
+    "description": "通用 AI 视频提示词引擎：同时覆盖 Seedance 2.5 与 MiniMax H3 的双模型提示词 skill（毕业设计级 AI 短片制作方法论）",
+    "stars": 37,
+    "updated_at": "2026-10-11",
+    "discovered": "2026-10-18"
+  }
+]
