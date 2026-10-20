@@ -590,5 +590,13 @@
     "stars": 37,
     "updated_at": "2026-10-11",
     "discovered": "2026-10-18"
+  },
+  {
+    "full_name": "UnderleveledBuilder/awesome-short-drama-skills",
+    "url": "https://github.com/UnderleveledBuilder/awesome-short-drama-skills",
+    "description": "AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Code、Codex 等智能体可用 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama ",
+    "stars": 350,
+    "updated_at": "2026-10-20",
+    "discovered": "2026-10-20"
   }
 ]
