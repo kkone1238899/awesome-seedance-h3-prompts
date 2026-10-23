@@ -598,5 +598,21 @@
     "stars": 350,
     "updated_at": "2026-10-20",
     "discovered": "2026-10-20"
+  },
+  {
+    "full_name": "Evolink-AI/GPT-Image-2-Seedance-2.5-Workflow",
+    "url": "https://github.com/Evolink-AI/GPT-Image-2-Seedance-2.5-Workflow",
+    "description": "GPT Image 2 to Seedance 2.5 Early Access workflow guide.",
+    "stars": 615,
+    "updated_at": "2026-10-23",
+    "discovered": "2026-10-23"
+  },
+  {
+    "full_name": "ukr8b3g-cmyk/ComfyUI-H3-Continuum",
+    "url": "https://github.com/ukr8b3g-cmyk/ComfyUI-H3-Continuum",
+    "description": "Seamless long-form MiniMax H3 video generation for ComfyUI with native AV latent continuity, chunked sampling, session resume, and Spectrum/Sage/Sol compatibility.",
+    "stars": 261,
+    "updated_at": "2026-10-23",
+    "discovered": "2026-10-23"
   }
 ]
