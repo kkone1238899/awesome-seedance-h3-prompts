@@ -3,13 +3,13 @@
     "full_name": "dexhunter/seedance2-skill",
     "note": "Seedance 2.0 官方手册外挂：输入约束、@ 引用、运镜语言",
     "section": "skills",
-    "stars": 4334
+    "stars": 4346
   },
   {
     "full_name": "rediumvex/ai-video-generator-claude",
     "note": "一句话想法 → 15–25 行生产级提示词（时间戳/运镜/布光/声音分层）",
     "section": "skills",
-    "stars": 425
+    "stars": 428
   },
   {
     "full_name": "zhouwei713/seedance-prompt",
@@ -27,7 +27,7 @@
     "full_name": "benjiyaya/Minimax-H3-Prompt-AgentSkill",
     "note": "从素材 + 想法生成格式化 H3 提示词",
     "section": "skills",
-    "stars": 150
+    "stars": 151
   },
   {
     "full_name": "penposs/minimax-h3-video-prompt",
@@ -45,7 +45,7 @@
     "full_name": "songguoxs/seedance-prompt-skill",
     "note": "Seedance 2.0 提示词生成 skill",
     "section": "repos",
-    "stars": 2953
+    "stars": 2957
   },
   {
     "full_name": "antirez/h3.c",
@@ -57,7 +57,7 @@
     "full_name": "ZeroLu/awesome-seedance",
     "note": "高质量 Seedance 2.0 prompt 合集（电影/动漫/UGC/广告/meme）",
     "section": "repos",
-    "stars": 2771
+    "stars": 2776
   },
   {
     "full_name": "AIMixer/ComfyUI_MiniMaxH3_Director",
@@ -69,19 +69,19 @@
     "full_name": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "note": "2000+ Seedance 2.0 prompt，API 指南、角色一致性技巧",
     "section": "repos",
-    "stars": 2168
+    "stars": 2170
   },
   {
     "full_name": "LearnPrompt/awesome-seedance",
     "note": "600+ 案例可溯源原帖，260+ 跨模型复测",
     "section": "repos",
-    "stars": 2229
+    "stars": 2248
   },
   {
     "full_name": "FlashML-org/FreeVideo",
     "note": "8GB 显存本地跑 MiniMax H3",
     "section": "repos",
-    "stars": 2255
+    "stars": 2286
   },
   {
     "full_name": "EvoLinkAI/awesome-seedance-2.5-guide",
@@ -105,6 +105,6 @@
     "full_name": "AtlasCloudAI/awesome-minimax-h3-prompts",
     "note": "H3 官方展示案例（品牌片/动效/叙事/电商/游戏/工业）",
     "section": "repos",
-    "stars": 62
+    "stars": 65
   }
 ]
