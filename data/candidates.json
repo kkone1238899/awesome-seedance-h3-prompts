@@ -622,5 +622,13 @@
     "stars": 412,
     "updated_at": "2026-10-24",
     "discovered": "2026-10-25"
+  },
+  {
+    "full_name": "Evolink-AI/awesome-seedance-2.5-prompts",
+    "url": "https://github.com/Evolink-AI/awesome-seedance-2.5-prompts",
+    "description": "Seedance 2.5 Early Access prompt patterns and launch prompt library.",
+    "stars": 186,
+    "updated_at": "2026-10-26",
+    "discovered": "2026-10-26"
   }
 ]

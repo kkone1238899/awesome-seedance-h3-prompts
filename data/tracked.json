@@ -3,13 +3,13 @@
     "full_name": "dexhunter/seedance2-skill",
     "note": "Seedance 2.0 官方手册外挂：输入约束、@ 引用、运镜语言",
     "section": "skills",
-    "stars": 4353
+    "stars": 4357
   },
   {
     "full_name": "rediumvex/ai-video-generator-claude",
     "note": "一句话想法 → 15–25 行生产级提示词（时间戳/运镜/布光/声音分层）",
     "section": "skills",
-    "stars": 431
+    "stars": 433
   },
   {
     "full_name": "zhouwei713/seedance-prompt",
@@ -27,7 +27,7 @@
     "full_name": "benjiyaya/Minimax-H3-Prompt-AgentSkill",
     "note": "从素材 + 想法生成格式化 H3 提示词",
     "section": "skills",
-    "stars": 151
+    "stars": 152
   },
   {
     "full_name": "penposs/minimax-h3-video-prompt",
@@ -45,7 +45,7 @@
     "full_name": "songguoxs/seedance-prompt-skill",
     "note": "Seedance 2.0 提示词生成 skill",
     "section": "repos",
-    "stars": 2958
+    "stars": 2960
   },
   {
     "full_name": "antirez/h3.c",
@@ -57,7 +57,7 @@
     "full_name": "ZeroLu/awesome-seedance",
     "note": "高质量 Seedance 2.0 prompt 合集（电影/动漫/UGC/广告/meme）",
     "section": "repos",
-    "stars": 2783
+    "stars": 2784
   },
   {
     "full_name": "AIMixer/ComfyUI_MiniMaxH3_Director",
@@ -69,19 +69,19 @@
     "full_name": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "note": "2000+ Seedance 2.0 prompt，API 指南、角色一致性技巧",
     "section": "repos",
-    "stars": 2172
+    "stars": 2176
   },
   {
     "full_name": "LearnPrompt/awesome-seedance",
     "note": "600+ 案例可溯源原帖，260+ 跨模型复测",
     "section": "repos",
-    "stars": 2272
+    "stars": 2283
   },
   {
     "full_name": "FlashML-org/FreeVideo",
     "note": "8GB 显存本地跑 MiniMax H3",
     "section": "repos",
-    "stars": 2314
+    "stars": 2337
   },
   {
     "full_name": "EvoLinkAI/awesome-seedance-2.5-guide",
@@ -93,13 +93,13 @@
     "full_name": "Anil-matcha/awesome-seedance-2.5-api-prompts",
     "note": "Seedance 2.5 API 指南、参数、示例",
     "section": "repos",
-    "stars": 324
+    "stars": 325
   },
   {
     "full_name": "xianyu110/awesome-minimax-h3-prompts",
     "note": "MiniMax H3 提示词精选",
     "section": "repos",
-    "stars": 61
+    "stars": 64
   },
   {
     "full_name": "AtlasCloudAI/awesome-minimax-h3-prompts",
