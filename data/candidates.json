@@ -630,5 +630,13 @@
     "stars": 186,
     "updated_at": "2026-10-26",
     "discovered": "2026-10-26"
+  },
+  {
+    "full_name": "ai-boost/awesome-image-video-prompts",
+    "url": "https://github.com/ai-boost/awesome-image-video-prompts",
+    "description": "Copy-ready prompts for the leading AI video and image models, each with its real output and source. Plus agent recipes for editing video.",
+    "stars": 3402,
+    "updated_at": "2026-10-28",
+    "discovered": "2026-10-28"
   }
 ]
