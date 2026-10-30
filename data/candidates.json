@@ -638,5 +638,21 @@
     "stars": 3402,
     "updated_at": "2026-10-28",
     "discovered": "2026-10-28"
+  },
+  {
+    "full_name": "D3voz/openjutsu",
+    "url": "https://github.com/D3voz/openjutsu",
+    "description": "One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
+    "stars": 436,
+    "updated_at": "2026-10-30",
+    "discovered": "2026-10-30"
+  },
+  {
+    "full_name": "woyin2024/lengyi-seedance2.5-prompt",
+    "url": "https://github.com/woyin2024/lengyi-seedance2.5-prompt",
+    "description": "专为Seedance 2.5量身打造的提示词skill，可以把任何想法/主题/小说片段，变成一支高级的30秒电影。A prompt Skill tailored for Seedance 2.5 — turns any one-line idea, fragment of a theme, or novel excerpt into a polished 30-second film.",
+    "stars": 133,
+    "updated_at": "2026-10-30",
+    "discovered": "2026-10-30"
   }
 ]
