@@ -654,5 +654,13 @@
     "stars": 133,
     "updated_at": "2026-10-30",
     "discovered": "2026-10-30"
+  },
+  {
+    "full_name": "drowzeys/Imagination-Studio-by-keys-Wasserman",
+    "url": "https://github.com/drowzeys/Imagination-Studio-by-keys-Wasserman",
+    "description": "Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio for Mac and NVIDIA DGX Spark. Plan a film like a crew (Slate workflow by Sam Wasserman), render Qwen-Image-2.1 / FLUX3-K p",
+    "stars": 334,
+    "updated_at": "2026-10-31",
+    "discovered": "2026-10-31"
   }
 ]
