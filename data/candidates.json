@@ -662,5 +662,13 @@
     "stars": 334,
     "updated_at": "2026-10-31",
     "discovered": "2026-10-31"
+  },
+  {
+    "full_name": "rdh9616/ComfyUI-Open-H3-Regenerate",
+    "url": "https://github.com/rdh9616/ComfyUI-Open-H3-Regenerate",
+    "description": "ComfyUI nodes + workflows for NVIDIA Open-H3-Regenerate-2K: regenerate MiniMax H3 drafts at 768P-4K in 3 steps, fast H3 VAE decoder, video-to-H3-prompt node",
+    "stars": 39,
+    "updated_at": "2026-11-02",
+    "discovered": "2026-11-02"
   }
 ]
