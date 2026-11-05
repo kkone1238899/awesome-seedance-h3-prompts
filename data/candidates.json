@@ -670,5 +670,13 @@
     "stars": 39,
     "updated_at": "2026-11-02",
     "discovered": "2026-11-02"
+  },
+  {
+    "full_name": "10291124jcjc-dotcom/ai-anime-series",
+    "url": "https://github.com/10291124jcjc-dotcom/ai-anime-series",
+    "description": "AI 动画单元剧：固定原创角色，一句话出一集。角色设定图 + 宫格故事板 + 即梦 Seedance 一次生成。Claude Skill.",
+    "stars": 343,
+    "updated_at": "2026-11-05",
+    "discovered": "2026-11-05"
   }
 ]
