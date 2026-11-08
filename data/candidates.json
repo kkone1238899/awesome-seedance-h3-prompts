@@ -678,5 +678,13 @@
     "stars": 343,
     "updated_at": "2026-11-05",
     "discovered": "2026-11-05"
+  },
+  {
+    "full_name": "aqm857886159/Nomi",
+    "url": "https://github.com/aqm857886159/Nomi",
+    "description": "Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor direct it over MCP — storyboard, references, generation, editable first cut on a real timeli",
+    "stars": 633,
+    "updated_at": "2026-11-07",
+    "discovered": "2026-11-08"
   }
 ]
