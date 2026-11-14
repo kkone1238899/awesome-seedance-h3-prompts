@@ -686,5 +686,13 @@
     "stars": 633,
     "updated_at": "2026-11-07",
     "discovered": "2026-11-08"
+  },
+  {
+    "full_name": "Bomx/OpenVideo",
+    "url": "https://github.com/Bomx/OpenVideo",
+    "description": "AI video production skill for agents: HeyGen avatars, Seedance b-roll, OpenAI images, Remotion, HyperFrames, screen recording, FFmpeg captions and QC.",
+    "stars": 345,
+    "updated_at": "2026-11-14",
+    "discovered": "2026-11-14"
   }
 ]
