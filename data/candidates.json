@@ -702,5 +702,21 @@
     "stars": 1092,
     "updated_at": "2026-11-16",
     "discovered": "2026-11-16"
+  },
+  {
+    "full_name": "fujc683/seedance-2-5-flash-free-tier",
+    "url": "https://github.com/fujc683/seedance-2-5-flash-free-tier",
+    "description": "How many seconds of Seedance 2.5 Flash free credits buy.",
+    "stars": 157,
+    "updated_at": "2026-11-17",
+    "discovered": "2026-11-17"
+  },
+  {
+    "full_name": "fujc683/seedance-2-5-flash-api-proxy",
+    "url": "https://github.com/fujc683/seedance-2-5-flash-api-proxy",
+    "description": "Seedance 2.5 Flash relay API: one key, Alipay payment, no VPN needed.",
+    "stars": 150,
+    "updated_at": "2026-11-17",
+    "discovered": "2026-11-17"
   }
 ]
