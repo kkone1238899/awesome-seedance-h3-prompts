@@ -718,5 +718,45 @@
     "stars": 150,
     "updated_at": "2026-11-17",
     "discovered": "2026-11-17"
+  },
+  {
+    "full_name": "fujc683/seedance-2-5-flash-pricing",
+    "url": "https://github.com/fujc683/seedance-2-5-flash-pricing",
+    "description": "Seedance 2.5 Flash cost per second of video, with comparisons.",
+    "stars": 216,
+    "updated_at": "2026-11-17",
+    "discovered": "2026-11-18"
+  },
+  {
+    "full_name": "fujc683/seedance-2-5-flash-camera-movements",
+    "url": "https://github.com/fujc683/seedance-2-5-flash-camera-movements",
+    "description": "12 camera moves for text-to-video, with copy-paste prompt phrases.",
+    "stars": 209,
+    "updated_at": "2026-11-17",
+    "discovered": "2026-11-18"
+  },
+  {
+    "full_name": "fujc683/seedance-2-5-flash-reference-video",
+    "url": "https://github.com/fujc683/seedance-2-5-flash-reference-video",
+    "description": "Control Seedance 2.5 Flash motion with a first frame or reference clip.",
+    "stars": 208,
+    "updated_at": "2026-11-17",
+    "discovered": "2026-11-18"
+  },
+  {
+    "full_name": "fujc683/seedance-2-5-flash-api",
+    "url": "https://github.com/fujc683/seedance-2-5-flash-api",
+    "description": "Seedance 2.5 Flash API: text-to-video endpoint, parameters and errors.",
+    "stars": 207,
+    "updated_at": "2026-11-17",
+    "discovered": "2026-11-18"
+  },
+  {
+    "full_name": "fujc683/seedance-2-5-flash-alternatives",
+    "url": "https://github.com/fujc683/seedance-2-5-flash-alternatives",
+    "description": "Seedance 2.5 Flash vs Seedance 2.0, Kling 4.0 Flash and Veo 3.",
+    "stars": 205,
+    "updated_at": "2026-11-17",
+    "discovered": "2026-11-18"
   }
 ]
