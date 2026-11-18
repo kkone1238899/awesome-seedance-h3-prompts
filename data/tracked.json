@@ -106,5 +106,17 @@
     "note": "H3 官方展示案例（品牌片/动效/叙事/电商/游戏/工业）",
     "section": "repos",
     "stars": 74
+  },
+  {
+    "full_name": "tazmannner/ComfyUI-H3-RelayHires",
+    "note": "H3 小图先出成片取向与音频，再 AnimeSR+DMAD 精修到 1920x1088，约 4 倍速",
+    "section": "skills",
+    "stars": 76
+  },
+  {
+    "full_name": "tazmannner/ComfyUI-H3-FastDerope",
+    "note": "H3 快动作糊化修复：Motion Gate 只重绘极端运动片段",
+    "section": "skills",
+    "stars": 16
   }
 ]

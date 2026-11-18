@@ -87,8 +87,10 @@ H3 是音画一体模型，提示词要**同时写画面和声音**：
 | [zhouwei713/seedance-prompt](https://github.com/zhouwei713/seedance-prompt) | 真实感视频 prompt：反向设计"谁拍的、用什么拍的" | 335 |
 | [AtlasCloudAI/awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) | Seedance 2.5 七段式生成 + 分镜 + 复查一条龙 | 273 |
 | [benjiyaya/Minimax-H3-Prompt-AgentSkill](https://github.com/benjiyaya/Minimax-H3-Prompt-AgentSkill) | 从素材 + 想法生成格式化 H3 提示词 | 162 |
+| [tazmannner/ComfyUI-H3-RelayHires](https://github.com/tazmannner/ComfyUI-H3-RelayHires) | H3 小图先出成片取向与音频，再 AnimeSR+DMAD 精修到 1920x1088，约 4 倍速 | 76 |
 | [penposs/minimax-h3-video-prompt](https://github.com/penposs/minimax-h3-video-prompt) | H3 提示词生成与评审 | 69 |
 | [EVZheng-Lab/h3-seedance-prompt](https://github.com/EVZheng-Lab/h3-seedance-prompt) | 一个创意同时产出 H3 和 Seedance 2.5 两版官方格式提示词 | 21 |
+| [tazmannner/ComfyUI-H3-FastDerope](https://github.com/tazmannner/ComfyUI-H3-FastDerope) | H3 快动作糊化修复：Motion Gate 只重绘极端运动片段 | 16 |
 <!-- AUTO-SKILLS:END -->
 
 ## 仓库导航（同类项目）
