@@ -758,5 +758,13 @@
     "stars": 205,
     "updated_at": "2026-11-17",
     "discovered": "2026-11-18"
+  },
+  {
+    "full_name": "fujc683/awesome-seedance-2-5-flash-prompts",
+    "url": "https://github.com/fujc683/awesome-seedance-2-5-flash-prompts",
+    "description": "140 curated Seedance 2.5 Flash video prompts with preview frames, grouped by use case.",
+    "stars": 392,
+    "updated_at": "2026-11-23",
+    "discovered": "2026-11-24"
   }
 ]
