@@ -766,5 +766,13 @@
     "stars": 392,
     "updated_at": "2026-11-23",
     "discovered": "2026-11-24"
+  },
+  {
+    "full_name": "sirioberati/ai-filmmaking-camera-control-seedance-2-5",
+    "url": "https://github.com/sirioberati/ai-filmmaking-camera-control-seedance-2-5",
+    "description": "AI filmmaking camera control with Seedance 2.5 and three.js: direct the camera with a reference video. 137 cinematic camera moves and templates, prompts, Tein MCP and API setup. Get a Seedance 2.5 key",
+    "stars": 376,
+    "updated_at": "2026-11-27",
+    "discovered": "2026-11-27"
   }
 ]
